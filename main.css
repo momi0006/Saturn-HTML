@@ -27,6 +27,7 @@ html, body{
     font-size: 3vh; /* default font-size = 1.0rem */
     background: #222;
     font-family: 'Helvetica Neue', Calibri, Verdana, sans-serif;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 h1{
 	color: #eee;
